@@ -1,6 +1,4 @@
-﻿// VMS.Domain/Entities/VolunteerActivity.cs
-using VMS.Solution.src.VMS.Domain.Enums;
-
+﻿
 namespace VMS.Domain.Entities;
 
 // Join entity: a volunteer's registration/participation in an event

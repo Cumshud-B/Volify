@@ -1,4 +1,9 @@
 ﻿// VMS.Application/Features/AI/Commands/GenerateCertificateText/GenerateCertificateTextCommandHandler.cs
+using MediatR;
+using VMS.Application.Common.Interfaces;
+using VMS.Solution.src.VMS.Application.Common.Interfaces;
+using VMS.Solution.src.VMS.Application.DTOs.AI;
+
 public sealed class GenerateCertificateTextCommandHandler(
     IApplicationDbContext db, IAiRecommendationService ai)
     : IRequestHandler<GenerateCertificateTextCommand, CertificateGenerationResultDto>

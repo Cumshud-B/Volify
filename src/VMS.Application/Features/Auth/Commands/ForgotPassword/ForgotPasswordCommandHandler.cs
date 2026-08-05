@@ -1,4 +1,5 @@
 ﻿// VMS.Application/Features/Auth/Commands/ForgotPassword/ForgotPasswordCommandHandler.cs
+using MediatR;
 using System.Security.Cryptography;
 using System.Text;
 using VMS.Solution.src.VMS.Application.Common.Interfaces;

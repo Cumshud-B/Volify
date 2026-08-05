@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VMS.Solution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5ff54ad74547557fdb33a2b65243d03d2d01ece")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b50bbfcff6648bae818a137f744ad8a32cca1d3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("VMS.Solution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VMS.Solution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

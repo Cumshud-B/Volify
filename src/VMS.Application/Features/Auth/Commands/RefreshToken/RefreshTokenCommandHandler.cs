@@ -1,4 +1,6 @@
 ﻿// VMS.Application/Features/Auth/Commands/RefreshToken/RefreshTokenCommandHandler.cs
+using MediatR;
+using VMS.Application.Common.Interfaces;
 using VMS.Domain.Entities;
 using VMS.Solution.src.VMS.Application.Common.Interfaces;
 

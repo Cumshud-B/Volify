@@ -1,4 +1,8 @@
 ﻿// VMS.Application/Features/Auth/Commands/Register/RegisterCommandHandler.cs
+using MediatR;
+using Microsoft.AspNetCore.Identity;
+using VMS.Solution.src.VMS.Application.Common.Interfaces;
+
 public sealed class RegisterCommandHandler(
     IApplicationDbContext db, IPasswordHasher hasher, IEmailService emailService)
     : IRequestHandler<RegisterCommand, RegisterResultDto>

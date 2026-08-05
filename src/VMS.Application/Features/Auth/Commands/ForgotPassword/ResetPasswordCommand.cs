@@ -1,5 +1,11 @@
 ﻿// VMS.Application/Features/Auth/Commands/ForgotPassword/ResetPasswordCommand.cs
 // (paired with ForgotPassword since it completes the same flow)
+using MediatR;
+using Microsoft.AspNetCore.Identity;
+using System.Security.Cryptography;
+using System.Text;
+using VMS.Solution.src.VMS.Application.Common.Interfaces;
+
 public sealed record ResetPasswordCommand(string Email, string OtpCode, string NewPassword) : IRequest<Unit>;
 
 public sealed class ResetPasswordCommandHandler(IApplicationDbContext db, IPasswordHasher hasher)

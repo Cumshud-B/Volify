@@ -1,6 +1,5 @@
 ﻿namespace VMS.Domain.Entities;
 
-using VMS.Solution.src.VMS.Domain.Enums;
 
 public class AuditLog : Common.BaseEntity
 {

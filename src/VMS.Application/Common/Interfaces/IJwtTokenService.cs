@@ -1,6 +1,11 @@
-﻿namespace VMS.Solution.src.VMS.Application.Common.Interfaces
+﻿// VMS.Application/Common/Interfaces/IJwtTokenService.cs
+using System.Security.Claims;
+
+namespace VMS.Application.Common.Interfaces;
+
+public interface IJwtTokenService
 {
-    public interface IJwtTokenService
-    {
-    }
+    string GenerateAccessToken(Guid userId, string email, IEnumerable<string> roles);
+    string GenerateRefreshToken();
+    ClaimsPrincipal? GetPrincipalFromExpiredToken(string token);
 }

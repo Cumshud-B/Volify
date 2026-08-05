@@ -1,6 +1,5 @@
 ﻿// VMS.Domain/Entities/Event.cs
 using VMS.Solution.src.VMS.Domain.Entities;
-using VMS.Solution.src.VMS.Domain.Enums;
 
 namespace VMS.Domain.Entities;
 
