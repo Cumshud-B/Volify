@@ -1,6 +1,5 @@
-﻿namespace VMS.Solution.src.VMS.Domain.Enums
-{
-    public class AuditAction
-    {
-    }
-}
+﻿// VMS.Domain/Enums/*.cs
+
+public enum EventStatus { Draft, Published, Ongoing, Completed, Cancelled }
+public enum ApprovalStatus { Pending, Approved, Rejected }
+public enum AuditAction { Create, Update, Delete, Login, Approve, Reject, CheckIn }
