@@ -1,6 +1,2 @@
-﻿namespace VMS.Solution.src.VMS.Application.Features.Auth.Commands.ForgotPassword
-{
-    public class ForgotPasswordCommand
-    {
-    }
-}
+﻿// VMS.Application/Features/Auth/Commands/ForgotPassword/ForgotPasswordCommand.cs
+public sealed record ForgotPasswordCommand(string Email) : IRequest<Unit>;

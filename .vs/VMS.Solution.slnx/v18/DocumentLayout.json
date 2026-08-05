@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\features\\ai\\commands\\generatecertificatetext\\generatecertificatetextcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\features\\ai\\commands\\generatecertificatetext\\generatecertificatetextcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\features\\ai\\commands\\generatecertificatetext\\generatecertificatetextcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\features\\ai\\commands\\generatecertificatetext\\generatecertificatetextcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\features\\auth\\commands\\forgotpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\features\\auth\\commands\\forgotpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\features\\auth\\commands\\forgotpassword\\forgotpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\features\\auth\\commands\\forgotpassword\\forgotpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\features\\auth\\commands\\forgotpassword\\forgotpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\features\\auth\\commands\\forgotpassword\\forgotpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\features\\auth\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\features\\auth\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\features\\auth\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\features\\auth\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.domain\\enums\\eventstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.domain\\enums\\eventstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +71,149 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "src\\VMS.Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:33:10.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\VMS.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:32:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerateCertificateTextCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\AI\\Commands\\GenerateCertificateText\\GenerateCertificateTextCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\Features\\AI\\Commands\\GenerateCertificateText\\GenerateCertificateTextCommandHandler.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\AI\\Commands\\GenerateCertificateText\\GenerateCertificateTextCommandHandler.cs",
+              "RelativeToolTip": "src\\VMS.Application\\Features\\AI\\Commands\\GenerateCertificateText\\GenerateCertificateTextCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:31:25.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerateCertificateTextCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\AI\\Commands\\GenerateCertificateText\\GenerateCertificateTextCommand.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\Features\\AI\\Commands\\GenerateCertificateText\\GenerateCertificateTextCommand.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\AI\\Commands\\GenerateCertificateText\\GenerateCertificateTextCommand.cs",
+              "RelativeToolTip": "src\\VMS.Application\\Features\\AI\\Commands\\GenerateCertificateText\\GenerateCertificateTextCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:31:15.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetPasswordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ResetPasswordCommand.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ResetPasswordCommand.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ResetPasswordCommand.cs",
+              "RelativeToolTip": "src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ResetPasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:30:32.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPasswordCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ForgotPasswordCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ForgotPasswordCommandHandler.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ForgotPasswordCommandHandler.cs",
+              "RelativeToolTip": "src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ForgotPasswordCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:30:19.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForgotPasswordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ForgotPasswordCommand.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ForgotPasswordCommand.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ForgotPasswordCommand.cs",
+              "RelativeToolTip": "src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ForgotPasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:30:12.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefreshTokenCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "RelativeToolTip": "src\\VMS.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:29:42.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefreshTokenCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "RelativeToolTip": "src\\VMS.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:29:28.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "src\\VMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:27:36.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "src\\VMS.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:27:24.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "EventStatus.cs",
               "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Domain\\Enums\\EventStatus.cs",
               "RelativeDocumentMoniker": "src\\VMS.Domain\\Enums\\EventStatus.cs",
@@ -39,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "AuditAction.cs",
               "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Domain\\Enums\\AuditAction.cs",
               "RelativeDocumentMoniker": "src\\VMS.Domain\\Enums\\AuditAction.cs",
@@ -47,12 +234,11 @@
               "RelativeToolTip": "src\\VMS.Domain\\Enums\\AuditAction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T10:14:43.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T10:14:43.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "ApprovalStatus.cs",
               "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Domain\\Enums\\ApprovalStatus.cs",
               "RelativeDocumentMoniker": "src\\VMS.Domain\\Enums\\ApprovalStatus.cs",
@@ -60,8 +246,7 @@
               "RelativeToolTip": "src\\VMS.Domain\\Enums\\ApprovalStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T10:14:38.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T10:14:38.359Z"
             }
           ]
         }
