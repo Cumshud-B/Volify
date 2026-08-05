@@ -1,6 +1,10 @@
-﻿namespace VMS.Solution.src.VMS.Domain.Entities.Common
+﻿// VMS.Domain/Entities/Common/BaseEntity.cs
+namespace VMS.Domain.Entities.Common;
+
+public abstract class BaseEntity
 {
-    public class BaseEntity
-    {
-    }
+    public Guid Id { get; set; } = Guid.NewGuid();
+    public DateTime CreatedAtUtc { get; set; } = DateTime.UtcNow;
+    public DateTime? UpdatedAtUtc { get; set; }
+    public bool IsDeleted { get; set; } = false; // soft delete
 }

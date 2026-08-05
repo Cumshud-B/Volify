@@ -34,3 +34,4 @@ C:\Users\bakti\OneDrive\Masaüstü\VMS.Solution\obj\Debug\net8.0\refint\VMS.Solu
 C:\Users\bakti\OneDrive\Masaüstü\VMS.Solution\obj\Debug\net8.0\VMS.Solution.pdb
 C:\Users\bakti\OneDrive\Masaüstü\VMS.Solution\obj\Debug\net8.0\VMS.Solution.genruntimeconfig.cache
 C:\Users\bakti\OneDrive\Masaüstü\VMS.Solution\obj\Debug\net8.0\ref\VMS.Solution.dll
+C:\Users\bakti\OneDrive\Masaüstü\VMS.Solution\obj\Debug\net8.0\VMS.Solution.sourcelink.json
