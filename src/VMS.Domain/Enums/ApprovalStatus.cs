@@ -1,4 +1,3 @@
-﻿
-public enum EventStatus { Draft, Published, Ongoing, Completed, Cancelled }
+﻿namespace VMS.Domain.Enums;
+
 public enum ApprovalStatus { Pending, Approved, Rejected }
-public enum AuditAction { Create, Update, Delete, Login, Approve, Reject, CheckIn }

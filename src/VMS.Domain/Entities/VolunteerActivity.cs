@@ -1,4 +1,6 @@
 ﻿
+using VMS.Domain.Enums;
+
 namespace VMS.Domain.Entities;
 
 // Join entity: a volunteer's registration/participation in an event

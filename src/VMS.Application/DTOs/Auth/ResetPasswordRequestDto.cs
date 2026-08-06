@@ -1,6 +1,3 @@
-﻿namespace VMS.Solution.src.VMS.Application.DTOs.Auth
-{
-    public class ResetPasswordRequestDto
-    {
-    }
-}
+﻿namespace VMS.Application.DTOs.Auth;
+
+public record ResetPasswordRequestDto(string Email, string OtpCode, string NewPassword);

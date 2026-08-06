@@ -1,6 +1,3 @@
-﻿namespace VMS.Solution.src.VMS.Application.DTOs.Auth
-{
-    public class ForgotPasswordRequestDto
-    {
-    }
-}
+﻿namespace VMS.Application.DTOs.Auth;
+
+public record ForgotPasswordRequestDto(string Email);

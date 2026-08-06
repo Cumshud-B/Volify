@@ -1,4 +1,6 @@
-﻿namespace VMS.Domain.Entities;
+﻿using VMS.Domain.Enums;
+
+namespace VMS.Domain.Entities;
 
 
 public class AuditLog : Common.BaseEntity

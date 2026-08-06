@@ -1,6 +1,5 @@
-﻿namespace VMS.Solution.src.VMS.Application.DTOs.Auth
-{
-    public class LoginRequestDto
-    {
-    }
-}
+﻿namespace VMS.Application.DTOs.Auth;
+
+
+
+public record LoginRequestDto(string Email, string Password);
