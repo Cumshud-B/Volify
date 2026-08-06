@@ -1,6 +1,4 @@
-﻿namespace VMS.Solution.src.VMS.Application.DTOs.AI
-{
-    public class MatchmakingRequestDto
-    {
-    }
-}
+﻿namespace VMS.Application.DTOs.AI;
+
+
+public record MatchmakingRequestDto(string SkillsCsv, string InterestsCsv);

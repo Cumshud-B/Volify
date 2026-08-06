@@ -1,6 +1,6 @@
-﻿namespace VMS.Solution.src.VMS.Application.DTOs.Events
-{
-    public class CreateEventDto
-    {
-    }
-}
+﻿// VMS.Application/DTOs/Events/*.cs
+namespace VMS.Application.DTOs.Events;
+public record CreateEventDto(
+    string Title, string Description, string Location,
+    DateTime StartDateUtc, DateTime EndDateUtc, int Capacity,
+    int XpReward, List<string> CategoryTags);

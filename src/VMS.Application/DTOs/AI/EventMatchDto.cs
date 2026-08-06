@@ -1,6 +1,3 @@
-﻿namespace VMS.Solution.src.VMS.Application.DTOs.AI
-{
-    public class EventMatchDto
-    {
-    }
-}
+﻿namespace VMS.Application.DTOs.AI;
+
+public record EventMatchDto(Guid EventId, double MatchScore, string Reason);
