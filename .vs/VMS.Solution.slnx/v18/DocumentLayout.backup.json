@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\dtos\\ai\\certificategenerationresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\dtos\\ai\\certificategenerationresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.persistence\\seed\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.persistence\\seed\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\dtos\\ai\\certificategenerationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\dtos\\ai\\certificategenerationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\features\\auth\\commands\\forgotpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\features\\auth\\commands\\forgotpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\dtos\\ai\\certificategenerationresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|solutionrelative:src\\vms.application\\dtos\\ai\\certificategenerationresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4B1438B-285E-7AA3-B1B4-73EBE501F025}|VMS.Solution.csproj|c:\\users\\bakti\\onedrive\\masa\u00FCst\u00FC\\vms.solution\\src\\vms.application\\dtos\\ai\\matchmakingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,41 +55,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CertificateGenerationResultDto.cs",
-              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\CertificateGenerationResultDto.cs",
-              "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\AI\\CertificateGenerationResultDto.cs",
-              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\CertificateGenerationResultDto.cs*",
-              "RelativeToolTip": "src\\VMS.Application\\DTOs\\AI\\CertificateGenerationResultDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABdAAAAAAAAAA==",
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Persistence\\Seed\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Persistence\\Seed\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Persistence\\Seed\\DbSeeder.cs*",
+              "RelativeToolTip": "src\\VMS.Persistence\\Seed\\DbSeeder.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T22:15:13.901Z",
+              "WhenOpened": "2026-08-06T22:18:14.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MatchmakingRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\MatchmakingRequestDto.cs",
-              "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\AI\\MatchmakingRequestDto.cs",
-              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\MatchmakingRequestDto.cs*",
-              "RelativeToolTip": "src\\VMS.Application\\DTOs\\AI\\MatchmakingRequestDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABLAAAAAAAAAA==",
+              "Title": "ResetPasswordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ResetPasswordCommand.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ResetPasswordCommand.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ResetPasswordCommand.cs",
+              "RelativeToolTip": "src\\VMS.Application\\Features\\Auth\\Commands\\ForgotPassword\\ResetPasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T22:15:02.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-06T22:15:48.073Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CertificateGenerationResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\CertificateGenerationResultDto.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\AI\\CertificateGenerationResultDto.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\CertificateGenerationResultDto.cs",
+              "RelativeToolTip": "src\\VMS.Application\\DTOs\\AI\\CertificateGenerationResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T22:15:13.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatchmakingRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\MatchmakingRequestDto.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\AI\\MatchmakingRequestDto.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\MatchmakingRequestDto.cs",
+              "RelativeToolTip": "src\\VMS.Application\\DTOs\\AI\\MatchmakingRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T22:15:02.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EventMatchDto.cs",
               "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\EventMatchDto.cs",
               "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\AI\\EventMatchDto.cs",
-              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\EventMatchDto.cs*",
-              "RelativeToolTip": "src\\VMS.Application\\DTOs\\AI\\EventMatchDto.cs*",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\EventMatchDto.cs",
+              "RelativeToolTip": "src\\VMS.Application\\DTOs\\AI\\EventMatchDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T22:14:50.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-06T22:14:50.636Z"
             },
             {
               "$type": "Document",
@@ -89,8 +119,8 @@
               "Title": "CertificateGenerationRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\CertificateGenerationRequestDto.cs",
               "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\AI\\CertificateGenerationRequestDto.cs",
-              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\CertificateGenerationRequestDto.cs*",
-              "RelativeToolTip": "src\\VMS.Application\\DTOs\\AI\\CertificateGenerationRequestDto.cs*",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\AI\\CertificateGenerationRequestDto.cs",
+              "RelativeToolTip": "src\\VMS.Application\\DTOs\\AI\\CertificateGenerationRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-06T22:14:31.151Z",
@@ -98,55 +128,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "VolunteerRegistrationDto.cs",
               "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\VolunteerRegistrationDto.cs",
               "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\Events\\VolunteerRegistrationDto.cs",
-              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\VolunteerRegistrationDto.cs*",
-              "RelativeToolTip": "src\\VMS.Application\\DTOs\\Events\\VolunteerRegistrationDto.cs*",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\VolunteerRegistrationDto.cs",
+              "RelativeToolTip": "src\\VMS.Application\\DTOs\\Events\\VolunteerRegistrationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T22:14:00.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-06T22:14:00.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\EventDetailDto.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\Events\\EventDetailDto.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\EventDetailDto.cs",
+              "RelativeToolTip": "src\\VMS.Application\\DTOs\\Events\\EventDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T22:13:42.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\EventSummaryDto.cs",
+              "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\Events\\EventSummaryDto.cs",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\EventSummaryDto.cs",
+              "RelativeToolTip": "src\\VMS.Application\\DTOs\\Events\\EventSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T22:13:23.948Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EventDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\EventDetailDto.cs",
-              "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\Events\\EventDetailDto.cs",
-              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\EventDetailDto.cs*",
-              "RelativeToolTip": "src\\VMS.Application\\DTOs\\Events\\EventDetailDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T22:13:42.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EventSummaryDto.cs",
-              "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\EventSummaryDto.cs",
-              "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\Events\\EventSummaryDto.cs",
-              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\EventSummaryDto.cs*",
-              "RelativeToolTip": "src\\VMS.Application\\DTOs\\Events\\EventSummaryDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T22:13:23.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "CreateEventDto.cs",
               "DocumentMoniker": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\CreateEventDto.cs",
               "RelativeDocumentMoniker": "src\\VMS.Application\\DTOs\\Events\\CreateEventDto.cs",
-              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\CreateEventDto.cs*",
-              "RelativeToolTip": "src\\VMS.Application\\DTOs\\Events\\CreateEventDto.cs*",
+              "ToolTip": "C:\\Users\\bakti\\OneDrive\\Masa\u00FCst\u00FC\\VMS.Solution\\src\\VMS.Application\\DTOs\\Events\\CreateEventDto.cs",
+              "RelativeToolTip": "src\\VMS.Application\\DTOs\\Events\\CreateEventDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T22:12:58.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-06T22:12:58.241Z"
             }
           ]
         }
