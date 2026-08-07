@@ -1,3 +1,30 @@
+
 {
-  "hello": "Hello"
+  "nav": { "home": "Home", "events": "Events", "leaderboard": "Leaderboard", "dashboard": "Dashboard", "login": "Login", "logout": "Logout" },
+  "landing": {
+    "title": "Volunteer. Grow. Belong.",
+    "subtitle": "Join university volunteer initiatives across Azerbaijan and earn recognition for every hour you give.",
+    "cta_join": "Join UniVolunteer",
+    "cta_explore": "Explore Events"
+  },
+  "register": {
+    "title": "Create your account",
+    "firstName": "First name", "lastName": "Last name", "email": "Email", "password": "Password", "phone": "Phone number (optional)",
+    "skills": "Your skills", "interests": "Your interests",
+    "submit": "Create account", "submitting": "Creating account…",
+    "success": "Account created — check your email to verify.",
+    "error": "Something went wrong. Please try again."
+  },
+  "cabinet": { "activityLog": "Activity Log", "certificates": "Certificates" },
+  "matchmaker": {
+    "title": "AI Matchmaker",
+    "subtitle": "Personalized event suggestions based on your skills and interests.",
+    "viewEvent": "View Event"
+  },
+  "admin": {
+    "nav": { "overview": "Overview", "volunteers": "Volunteers", "events": "Events", "attendance": "Attendance", "audit": "Audit Log", "analytics": "Analytics", "logout": "Log out" },
+    "header": { "subtitle": "Administration Panel" }
+  },
+  "footer": { "tagline": "Empowering student volunteers across Azerbaijan." },
+  "common": { "loading": "Loading…" }
 }

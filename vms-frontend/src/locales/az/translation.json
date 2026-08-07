@@ -1,0 +1,29 @@
+{
+  "nav": { "home": "Ana səhifə", "events": "Tədbirlər", "leaderboard": "Liderlik lövhəsi", "dashboard": "Şəxsi kabinet", "login": "Daxil ol", "logout": "Çıxış" },
+  "landing": {
+    "title": "Könüllü ol. İnkişaf et. Bir hissə ol.",
+    "subtitle": "Azərbaycan universitetlərinin könüllü təşəbbüslərinə qoşulun və hər saatınız üçün tanınma qazanın.",
+    "cta_join": "UniVolunteer-ə qoşul",
+    "cta_explore": "Tədbirlərə bax"
+  },
+  "register": {
+    "title": "Hesab yaradın",
+    "firstName": "Ad", "lastName": "Soyad", "email": "E-poçt", "password": "Şifrə", "phone": "Telefon nömrəsi (istəyə bağlı)",
+    "skills": "Bacarıqlarınız", "interests": "Maraq dairəniz",
+    "submit": "Hesab yarat", "submitting": "Hesab yaradılır…",
+    "success": "Hesab yaradıldı — təsdiq üçün e-poçtunuzu yoxlayın.",
+    "error": "Xəta baş verdi. Yenidən cəhd edin."
+  },
+  "cabinet": { "activityLog": "Fəaliyyət jurnalı", "certificates": "Sertifikatlar" },
+  "matchmaker": {
+    "title": "AI Uyğunlaşdırıcı",
+    "subtitle": "Bacarıq və maraqlarınıza əsaslanan fərdi tədbir təklifləri.",
+    "viewEvent": "Tədbirə bax"
+  },
+  "admin": {
+    "nav": { "overview": "Ümumi baxış", "volunteers": "Könüllülər", "events": "Tədbirlər", "attendance": "İştirak", "audit": "Audit jurnalı", "analytics": "Analitika", "logout": "Çıxış" },
+    "header": { "subtitle": "İdarəetmə Paneli" }
+  },
+  "footer": { "tagline": "Azərbaycanda tələbə könüllülərini gücləndiririk." },
+  "common": { "loading": "Yüklənir…" }
+}
